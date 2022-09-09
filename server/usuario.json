@@ -1,0 +1,29 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "email": "jbordarampe@gmail.com",
+      "pass": "030302"
+    },
+    {
+      "email": "gastonmartino2013@gmail.com",
+      "pass": "21313",
+      "id": 2
+    },
+    {
+      "email": "lilianabengochea@gmail.com",
+      "pass": "2131",
+      "id": 3
+    },
+    {
+      "email": "gastonmartino2013@gmail.com",
+      "pass": "2341",
+      "id": 4
+    },
+    {
+      "email": "lilianabengochea@gmail.com",
+      "pass": "123",
+      "id": 5
+    }
+  ]
+}
